@@ -1,1 +1,3 @@
 # NLP_Basics
+In the "Deep_learning_for_NLP.ipynb" file, I have tried to cover basics of NLP and followed the book titled "Deep Learning for Natural Language Processing".
+I will keep updating the current repo.....

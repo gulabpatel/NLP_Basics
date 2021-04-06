@@ -1,0 +1,2 @@
+dataset, info = tfds.load('amazon_us_reviews/Personal_Care_Appliances_v1_00', with_info=True, batch_size=-1)
+train_dataset = dataset['train']

@@ -3,3 +3,7 @@ In the "Deep_learning_for_NLP.ipynb" file, I have tried to cover basics of NLP a
 I will keep updating the current repo.....
 
 Basic NLP models like Count Vectorizer, TF-IDF, Word2Vec, Embedding, Sentiment Analysis, Text Classification, LSTM/BiLSTM, new nlp library basics, Topic Modeling etc... Seq2seq Modeling
+
+
+## Multi-Class Text Classification Model Comparison and Selection
+[https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568]

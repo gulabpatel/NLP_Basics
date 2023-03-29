@@ -10,7 +10,7 @@ Basic NLP models like Count Vectorizer, TF-IDF, Word2Vec, Embedding, Sentiment A
 
 
 ## About
-Natural Language Processing Performance Metrics [[ppt](https://github.com/gcunhase/NLPMetrics/blob/master/assets/NLP_performance_metrics-April6th2018.pdf)]
+Natural Language Processing Performance Metrics [[ppt](https://github.com/gulabpatel/NLP_Basics/blob/main/NLP_performance_metrics-April6th2018.pdf)]
 
 <p align="center">
 <img src="./assets/nlp_metrics.png" width="300" alt="NLP Metrics Timeline"/>
